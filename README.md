@@ -1,1 +1,1 @@
-# react-practice
+I am practicing react native app development. I am following along this youtube playlist: https://www.youtube.com/playlist?list=PL4KX3oEgJcffBMk2CJPh51R4SqJvUyEac
